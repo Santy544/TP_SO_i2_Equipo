@@ -1,3 +1,9 @@
 
+<<<<<<< HEAD
  Fernando Cantero -IP: 192.168.0.1 -Hora: 11:46:47
+ Fernando Cantero -IP: 192.168.0.1 -Hora: 11:46:47
+=======
+Giuliano Di Toro - ip: 192.168.0.1 - hora: 11:35:26
+Giuliano Di Toro - ip: 192.168.0.1 - hora: 11:35:26
+>>>>>>> 7d481146b2ff774cfe345f3f72eedc19537df169
  Fernando Cantero -IP: 192.168.0.1 -Hora: 11:46:47
