@@ -4,3 +4,7 @@ respuestas:
 a- con git pull "link" main 
 
 b- en teoria no.
+
+c- no, se actualizan en base al main
+
+d- en ese caso, git te pide hacer un merge para juntar los cambios
