@@ -8,3 +8,79 @@ b- en teoria no.
 c- no, se actualizan en base al main
 
 d- en ese caso, git te pide hacer un merge para juntar los cambios
+
+e-
+Santino Canosa
+Beta crea el repositorio 
+
+Giuliano Di Toro
+GAMMA 
+se hace un fork desde GitHub
+en la consola de git:
+git clone link(del fork)
+date
+ipconfig
+echo "date/ip" >> fork.txt
+git add
+git commit
+git checkout -b nombre-rama
+git push origin nombre-rama
+
+Santino Canosa
+BETA
+Acepta los pull request desde git hub de GAMMA
+
+Fernando Cantero
+ALPHA
+se hace un fork desde GitHub
+en la consola de git:
+git clone link(del fork)
+date
+ipconfig
+echo "date/ip" >> fork.txt
+git add
+git commit
+git checkout -b nombre-rama
+git push origin nombre-rama
+
+Santino Canosa
+BETA
+Acepta los pull request desde git hub de ALPHA
+git clone link
+echo "" > NuevoDato.txt
+git add
+git commit
+git push
+
+Giuliano Di Toro
+GAMMA
+git pull link main
+
+Fernando Cantero
+ALPHA
+git pull link main
+
+Giuliano Di Toro
+GAMMA
+echo "respuesta a y b" >> Respuesta_I2_equipo112.txt
+git add
+git commit
+git push origin nombre-rama
+
+SAntino Canosa
+BETA
+git pull
+echo "respuesta c y d" >> Respuesta_I2_equipo112.txt
+git add
+git commit
+git push origin nombre-rama
+
+Fernando Cantero
+ALPHA
+git pull link main
+echo "respuesta e" >> Respuesta_I2_equipo112.txt
+git add
+git commit
+git push origin nombre-rama
+
+
